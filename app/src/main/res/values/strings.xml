@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">loginscreen</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="more">More</string>
+    <string name="login">Log in</string>
+    <string name="account">Create new Account</string>
+</resources>
